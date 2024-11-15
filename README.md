@@ -1,4 +1,4 @@
-Smart Connect
+
 Smart Connect is an AI-powered chatbot designed for college use. It provides students and faculty with quick access to information about college faculty, facilities, events, and more.
 
 Table of Contents
