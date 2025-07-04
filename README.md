@@ -16,7 +16,7 @@ Technologies
 Backend: Flask (Python)
 Frontend: JavaScript, HTML, CSS
 Installation
-```
+
 step1:
 Clone the repository to your local machine.&
 Navigate to the `smart-connect` directory:<br>
@@ -35,7 +35,7 @@ Step 3: run the server<br>
 Step 4:open a web browser and navigate to<br>
    ```bash   
    http://localhost:5000
-```
+
 Project Structure
 app.py - Main server file for running the Flask application.
 static/ - Folder containing all HTML, CSS, and JavaScript files.
