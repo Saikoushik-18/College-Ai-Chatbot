@@ -16,27 +16,22 @@ Technologies
 Backend: Flask (Python)
 Frontend: JavaScript, HTML, CSS
 Installation
-Clone this repository:
-Step1:-
-```bash
-git clone https://github.com/username/smart-connect.git
-cd smart-connect
-
-step2:-
-Install Flask:
-
-```bash
-pip install flask
-
-step3:-
-Run the server:
-
-```bash
-python app.py
-
-Usage
-Once the server is running, open a web browser and navigate to http://localhost:5000 to interact with the Smart Connect chatbot.
-
+step1:
+Clone the repository to your local machine.&
+Navigate to the `smart-connect` directory:<br>
+   ```bash
+   git clone https://github.com/username/smart-connect.git
+   cd smart-connect   
+Step 2: install flask
+   ```bash
+   pip install flask   
+Step 3: run the server
+   ```bash   
+   python app.py   
+Step 4:open a web browser and navigate to
+   ```bash   
+   http://localhost:5000
+<br>
 Project Structure
 app.py - Main server file for running the Flask application.
 static/ - Folder containing all HTML, CSS, and JavaScript files.
