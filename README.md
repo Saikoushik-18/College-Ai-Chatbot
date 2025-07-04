@@ -24,7 +24,7 @@ Smart Connect serves as a virtual assistant, making it easy for users to find in
 
 ## 🛠 Technologies
 
-- **Backend:** Flask (Python)  
+- **Backend:** Flask (Python),Excel
 - **Frontend:** JavaScript, HTML, CSS  
 
 **Badges:**  
