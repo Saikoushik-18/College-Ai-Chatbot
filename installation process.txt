@@ -1,0 +1,50 @@
+Step 1: Download the Files
+From GitHub or Provided Source: https://github.com/Saikoushik-18/College-Ai-Chatbot
+
+ is on GitHub:
+Click the Code button and select Download ZIP.
+If provided as a file, ensure you have the ZIP file saved on your system.
+Extract the ZIP File:
+
+Navigate to the downloaded ZIP file.
+Right-click and select Extract All (Windows) or Extract Here (Linux/Mac).
+Choose the destination folder where you want the project files to be stored.
+
+----------------------------------------------------------------------------------------------------------------
+
+Step 2: Install Required Software
+Install Python:
+
+Download and install Python (version 3.x) from the official Python website.
+During installation, check Add Python to PATH.
+Install Flask:
+
+Open a terminal or command prompt and navigate to the project directory (e.g., cd path_to_project).
+Run the following command to install Flask:
+bash
+Copy code
+pip install flask
+
+------------------------------------------------------------------------------------------------------------------
+
+Step 3: Run the program
+Navigate to the program Directory:
+
+Open the terminal or command prompt.
+Use the cd command to navigate to the folder where you extracted the project files.
+Start the Flask Server:
+
+Run the following command:
+bash
+Copy code
+python app.py
+
+The terminal will display a message with the server URL, typically http://127.0.0.1:5000.
+
+Open a web browser and go to http://127.0.0.1:5000 to interact with the Smart Connect chatbot.
+
+Structure
+
+app.py: Main server file.
+
+static/: Contains all HTML, CSS, JavaScript, and other project assets.
